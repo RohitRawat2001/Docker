@@ -42,7 +42,6 @@ Docker Compose with Volume
 Docker Compose with Port Binding
 ```
 
-
 # Introduction
 Docker is a platform designed to simplify the process of building, shipping, and running applications in containers. Containers allow developers to package applications with all the necessary components, such as libraries and dependencies, and deploy them in a consistent environment.
 
