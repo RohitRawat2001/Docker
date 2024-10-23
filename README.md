@@ -62,7 +62,6 @@ Resource Efficiency: Containers are lightweight and use fewer resources than vir
 A container is a lightweight, standalone, executable package that includes everything needed to run a piece of software.
 
 -- List Running Containers
-
 ```bash
 docker ps
 ```
